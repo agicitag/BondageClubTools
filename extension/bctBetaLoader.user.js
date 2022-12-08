@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         BCT Beta Loader
+// @name         BCTweaks Beta Loader
 // @namespace    https://www.bondageprojects.com/
 // @version      1
 // @description  BC extension adding several little useful tweaks to BC.
